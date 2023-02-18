@@ -6,19 +6,21 @@ sites:
   - name: SB Kul College
     url: https://www.sbkulcollege.in
 
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.sbkulcollege.in
-  baseUrl: /status.sbkulcollege.in
+  cname: status.sbkulcollege.in
+  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Status page for SBKul College, powered entirely by JustInClicks.com."
- # introMessage:
+  name: SBKC Site Status
+  introTitle: Status Page
+  introMessage: Status
   navbar:
     - title: Status
       href: /
-    - title: Visit Site 
+    - title: Visit
       href: https://www.sbkulcollege.in
 
 # Upptime also supports notifications, assigning issues, and more
