@@ -4,7 +4,7 @@
     "url": "https://www.sbkulcollege.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.sbkulcollege.in.ico",
     "slug": "sb-kul-college",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1931,
     "timeYear": 2261,
     "dailyMinutesDown": {
+      "2024-05-15": 0,
       "2024-04-11": 40,
       "2024-04-08": 17,
       "2024-03-08": 56,
